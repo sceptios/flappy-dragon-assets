@@ -194,6 +194,16 @@ class World:
         self.data = {
             "name": GAME_STRINGS[json_data["localizedNameKey"]],
             "description": punctuate(GAME_STRINGS[json_data["localizedDescriptionKey"]]),
+            "tower_spacing": {
+                "horizontal": {
+                    "initial": json_data["spacingCurve"]["m_Curve"][0]["value"],
+                    "final": json_data["spacingCurve"]["m_Curve"][1]["value"],
+                },
+                "vertical": {
+                    "initial": json_data["closureCurve"]["m_Curve"][0]["value"],
+                    "final": json_data["closureCurve"]["m_Curve"][1]["value"],
+                },
+            },
             "aristocrats": [ROYALS[i["guid"]].data for i in json_data["royals"]],
             "themes": [THEMES[i["guid"]].data for i in json_data["themes"]],
         }
