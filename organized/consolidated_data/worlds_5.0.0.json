@@ -28,6 +28,16 @@
             "zh-CN": "一个经常被...外星人拜访的干旱沙漠？",
             "ko": "외계인이 방문한 빈번한 모래 폭풍이있는 건조한 사막?"
         },
+        "tower_spacing": {
+            "horizontal": {
+                "initial": 6,
+                "final": 4
+            },
+            "vertical": {
+                "initial": 7,
+                "final": 5.4
+            }
+        },
         "aristocrats": [
             {
                 "name": "Alien",
@@ -128,6 +138,16 @@
             "zh-CN": "每个人都应该休息一下。放松并在这个美丽的海滩上享受海浪和沙子。",
             "ko": "모두가 휴식을 취할 자격이 있습니다.이 아름다운 해변에서 휴식을 취하고 파도와 모래를 즐기십시오."
         },
+        "tower_spacing": {
+            "horizontal": {
+                "initial": 6,
+                "final": 4
+            },
+            "vertical": {
+                "initial": 7,
+                "final": 5.4
+            }
+        },
         "aristocrats": [
             {
                 "name": "Beach Bay Surfer",
@@ -209,6 +229,16 @@
             "zh": "列車運送珍貴的龍晶礦穿越這個乾旱多刺的峽谷。",
             "zh-CN": "列车运送珍贵的龙晶矿穿越这个干旱多刺的峡谷。",
             "ko": "열차가 이 건조하고 가시 돋친 협곡을 통해 귀중한 드래고나이트를 운반합니다."
+        },
+        "tower_spacing": {
+            "horizontal": {
+                "initial": 12,
+                "final": 10
+            },
+            "vertical": {
+                "initial": 7,
+                "final": 5.4
+            }
         },
         "aristocrats": [
             {
@@ -304,6 +334,16 @@
             "zh-CN": "庆祝和喜悦的地方。尽可能多地吃糖果！",
             "ko": "축하와 기쁨의 장소.가능한 한 많은 과자를 먹어라!"
         },
+        "tower_spacing": {
+            "horizontal": {
+                "initial": 10,
+                "final": 8
+            },
+            "vertical": {
+                "initial": 7,
+                "final": 5.4
+            }
+        },
         "aristocrats": [
             {
                 "name": "Cupcake",
@@ -398,6 +438,16 @@
             "zh-CN": "一个由爬行动物部落管理的群岛，将龙与不良预兆相关联。",
             "ko": "드래곤을 나쁜 징조로 연관시키는 파충류 부족이 지배하는 군도."
         },
+        "tower_spacing": {
+            "horizontal": {
+                "initial": 6,
+                "final": 4
+            },
+            "vertical": {
+                "initial": 7,
+                "final": 5.4
+            }
+        },
         "aristocrats": [
             {
                 "name": "Black Lizard",
@@ -485,6 +535,16 @@
             "zh": "傳說講述了一個古老的文明，試圖征服天堂。這樣的傲慢激怒了眾神。",
             "zh-CN": "传说讲述了一个古老的文明，试图征服天堂。这样的傲慢激怒了众神。",
             "ko": "전설은 하늘을 정복하려는 고대 문명에 대해 이야기합니다.그러한 허비는 신들을 화나게했다."
+        },
+        "tower_spacing": {
+            "horizontal": {
+                "initial": 6,
+                "final": 4
+            },
+            "vertical": {
+                "initial": 7,
+                "final": 5.4
+            }
         },
         "aristocrats": [
             {
@@ -580,6 +640,16 @@
             "zh-CN": "探索被洪水散布的古代文明的淹没废墟。",
             "ko": "홍수로 인해 고대 문명의 침수 된 폐허를 탐험하십시오."
         },
+        "tower_spacing": {
+            "horizontal": {
+                "initial": 6,
+                "final": 5
+            },
+            "vertical": {
+                "initial": 7,
+                "final": 5.4
+            }
+        },
         "aristocrats": [
             {
                 "name": "Coral Reef Cultist",
@@ -667,6 +737,16 @@
             "zh": "他穿過銀河系，躲避小行星並了解新的生活形式。",
             "zh-CN": "他穿过银河系，躲避小行星并了解新的生活形式。",
             "ko": "그는 은하계를 통해 소행성을 피하고 새로운 생명체를 알고 있습니다."
+        },
+        "tower_spacing": {
+            "horizontal": {
+                "initial": 6,
+                "final": 6
+            },
+            "vertical": {
+                "initial": 7,
+                "final": 5.4
+            }
         },
         "aristocrats": [
             {
@@ -768,6 +848,16 @@
             "zh-CN": "龙族度过最后时光的安息之地。笼罩在神秘而危险的瘴气之中。",
             "ko": "용들이 마지막 날들을 보내는 휴식처. 신비롭고 위험한 독기에 휩싸여 있습니다."
         },
+        "tower_spacing": {
+            "horizontal": {
+                "initial": 6,
+                "final": 4
+            },
+            "vertical": {
+                "initial": 7,
+                "final": 5.4
+            }
+        },
         "aristocrats": [
             {
                 "name": "Queen Beensect",
@@ -868,6 +958,16 @@
             "zh-CN": "这项工作永远不会停在山内，矮人在那里越来越深地挖掘龙田",
             "ko": "작업은 산 안에서 멈추지 않으며, 드래곤 라이트를 찾아 드레인드가 더 깊고 깊어 지는데"
         },
+        "tower_spacing": {
+            "horizontal": {
+                "initial": 6,
+                "final": 5
+            },
+            "vertical": {
+                "initial": 7,
+                "final": 5.4
+            }
+        },
         "aristocrats": [
             {
                 "name": "Miner Mole",
@@ -943,6 +1043,16 @@
             "zh": "鬱鬱蔥蔥的魔法森林，由於仙女的力量，樹木無休止地生長。",
             "zh-CN": "郁郁葱葱的魔法森林，由于仙女的力量，树木无休止地生长。",
             "ko": "요정의 힘 덕분에 나무가 끝없이 자라는 무성한 마법의 숲."
+        },
+        "tower_spacing": {
+            "horizontal": {
+                "initial": 6,
+                "final": 4
+            },
+            "vertical": {
+                "initial": 7,
+                "final": 5.4
+            }
         },
         "aristocrats": [
             {
@@ -1042,6 +1152,16 @@
             "zh-CN": "岛屿受到永久活跃的火山的威胁，当地部落像他们的上帝一样崇拜。",
             "ko": "섬들은 영구적으로 활동적인 화산으로 위협을 받았으며, 지역 부족은 그들의 신처럼 존경합니다."
         },
+        "tower_spacing": {
+            "horizontal": {
+                "initial": 6,
+                "final": 5
+            },
+            "vertical": {
+                "initial": 7,
+                "final": 6
+            }
+        },
         "aristocrats": [
             {
                 "name": "Bard",
@@ -1136,6 +1256,16 @@
             "zh-CN": "老式水手的故事谈论了一个巨大的愚蠢的人，被海浪被囚禁在海浪中，从那以后转过身来试图释放自己。",
             "ko": "오래된 선원 이야기는 파도 아래에서 수두 투옥 된 괴물에 대해 이야기하고 그 이후로 스스로를 자유롭게하려고 노력합니다."
         },
+        "tower_spacing": {
+            "horizontal": {
+                "initial": 6,
+                "final": 5
+            },
+            "vertical": {
+                "initial": 7,
+                "final": 6
+            }
+        },
         "aristocrats": [
             {
                 "name": "Ghost Captain",
@@ -1223,6 +1353,16 @@
             "zh": "只要蛇神持續旋轉，河水就會奔流不息。來自世界各地的朝聖者前來沐浴於神聖的河水之中。",
             "zh-CN": "只要蛇神持续旋转，河水就会奔流不息。来自世界各地的朝圣者前来沐浴于神圣的河水之中。",
             "ko": "뱀 신이 계속 도는 한, 강물은 계속 흐를 것입니다. 전 세계의 순례자들이 신성한 물에 몸을 담그러 찾아옵니다."
+        },
+        "tower_spacing": {
+            "horizontal": {
+                "initial": 6,
+                "final": 5
+            },
+            "vertical": {
+                "initial": 7,
+                "final": 5.4
+            }
         },
         "aristocrats": [
             {
@@ -1318,6 +1458,16 @@
             "zh-CN": "一座时隐时现的沙漠城市。传说它会实现愿望但会困住停留太久的人。",
             "ko": "나타났다 사라지는 사막 도시. 전설에 의하면 소원을 들어주지만 너무 오래 머무는 자를 가둔다고 합니다."
         },
+        "tower_spacing": {
+            "horizontal": {
+                "initial": 6,
+                "final": 5
+            },
+            "vertical": {
+                "initial": 7,
+                "final": 5.4
+            }
+        },
         "aristocrats": [
             {
                 "name": "Sultana",
@@ -1412,6 +1562,16 @@
             "zh-CN": "持续征服大地及其居民的寄生蘑菇网络之心。",
             "ko": "땅과 그 주민들을 계속해서 정복하는 기생 버섯 네트워크의 심장."
         },
+        "tower_spacing": {
+            "horizontal": {
+                "initial": 6,
+                "final": 5
+            },
+            "vertical": {
+                "initial": 7,
+                "final": 6
+            }
+        },
         "aristocrats": [
             {
                 "name": "Zombie Mushroom",
@@ -1505,6 +1665,16 @@
             "zh": "一個在叢林中失落的王國，羽蛇的家園。 青綠色能量方塊為怪物神器提供動力，但也是它們的弱點。",
             "zh-CN": "一个在丛林中失落的王国，羽蛇的家园。 青绿色能量方块为怪物神器提供动力，但也是它们的弱点。",
             "ko": "정글에서 잃어버린 왕국, 깃털 달린 뱀의 거처. 청록색 에너지 블록은 괴물 같은 유물에 힘을 주지만, 그것들의 약점이기도 하다."
+        },
+        "tower_spacing": {
+            "horizontal": {
+                "initial": 12,
+                "final": 9
+            },
+            "vertical": {
+                "initial": 7,
+                "final": 7
+            }
         },
         "aristocrats": [
             {
@@ -1604,6 +1774,16 @@
             "zh-CN": "一个充满巨型管道的奇怪土地。他们在哪里通往？",
             "ko": "거대한 파이프로 가득 찬 이상한 땅.그들은 어디로 이끌까요?"
         },
+        "tower_spacing": {
+            "horizontal": {
+                "initial": 6,
+                "final": 4
+            },
+            "vertical": {
+                "initial": 7,
+                "final": 5.4
+            }
+        },
         "aristocrats": [
             {
                 "name": "Plant",
@@ -1681,6 +1861,16 @@
             "zh": "在這個美麗的山區逃避羅諾卡王國的塔樓。",
             "zh-CN": "在这个美丽的山区逃避罗诺卡王国的塔楼。",
             "ko": "이 아름다운 산악 지역에서 로노카 왕국의 탑을 피하십시오."
+        },
+        "tower_spacing": {
+            "horizontal": {
+                "initial": 6,
+                "final": 4
+            },
+            "vertical": {
+                "initial": 7,
+                "final": 5.4
+            }
         },
         "aristocrats": [
             {
@@ -1763,6 +1953,16 @@
             "zh": "貿易路線被海盜船感染。當心桅杆！",
             "zh-CN": "贸易路线被海盗船感染。当心桅杆！",
             "ko": "해적 선박에 감염된 거래 경로.마스트를 조심하십시오!"
+        },
+        "tower_spacing": {
+            "horizontal": {
+                "initial": 6,
+                "final": 5
+            },
+            "vertical": {
+                "initial": 7,
+                "final": 6
+            }
         },
         "aristocrats": [
             {
@@ -1851,6 +2051,16 @@
             "zh": "幽靈王國由夜晚的生物領導……令人毛骨悚然！",
             "zh-CN": "幽灵王国由夜晚的生物领导……令人毛骨悚然！",
             "ko": "밤의 생물이 이끄는 유령 왕국 ... 냉담한!"
+        },
+        "tower_spacing": {
+            "horizontal": {
+                "initial": 6,
+                "final": 4
+            },
+            "vertical": {
+                "initial": 7,
+                "final": 5.4
+            }
         },
         "aristocrats": [
             {
@@ -1951,6 +2161,16 @@
             "zh": "體驗旋律遙遠的未來（還是過去？）",
             "zh-CN": "体验旋律遥远的未来（还是过去？）",
             "ko": "멜로디 먼 미래를 경험하십시오 (아니면 과거입니까?)"
+        },
+        "tower_spacing": {
+            "horizontal": {
+                "initial": 6,
+                "final": 6
+            },
+            "vertical": {
+                "initial": 7,
+                "final": 5.4
+            }
         },
         "aristocrats": [
             {
@@ -2058,6 +2278,16 @@
             "zh-CN": "祖先的帝国尊敬龙并提供祭品以换取他们的保护。",
             "ko": "드래곤이 숭배되고 보호를 대가로 제물이 이루어지는 조상 제국."
         },
+        "tower_spacing": {
+            "horizontal": {
+                "initial": 6,
+                "final": 4
+            },
+            "vertical": {
+                "initial": 7,
+                "final": 5.4
+            }
+        },
         "aristocrats": [
             {
                 "name": "Emperor",
@@ -2163,6 +2393,16 @@
             "zh": "它們的結構是由山龍和深色冰的骨頭製成的，可以更好地防止頻繁繞組。",
             "zh-CN": "它们的结构是由山龙和深色冰的骨头制成的，可以更好地防止频繁绕组。",
             "ko": "그들의 구조물은 산악 용과 어두운 얼음의 뼈로 만들어져 빈번한 와인딩으로부터 더 잘 보호합니다."
+        },
+        "tower_spacing": {
+            "horizontal": {
+                "initial": 6,
+                "final": 4
+            },
+            "vertical": {
+                "initial": 7,
+                "final": 5.4
+            }
         },
         "aristocrats": [
             {
